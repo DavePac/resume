@@ -1,0 +1,76 @@
+DAVID PACMOGDA
+
+Omaha, Nebraska 68135 ♦ 6318299381 ♦ dwendpanga@gmail.com ♦ LinkedIn
+
+Professional Summary
+Skilled Cloud Engineer with 5+ years of experience in cloud designing, automation and implementation of various cloud management products and services in AWS. Expert in leveraging configuration management, CI/CD, Docker, Kubernetes and DevOps processes, Strong skills in providing operations and maintenance support for AWS cloud resources. Experienced in working under pressure and adapting to new situations with a track record of meeting company's objective by leveraging critical thinking to solve problems and making impactful decisions. 
+
+Core Competencies 
+•	Building Continuous Integration/Delivery pipelines: Git, GitHub, Jenkins, Docker, SonarQube, Maven, Nexus, Prometheus and Grafana, Slack, Ansible, AWS Code Build, Code Pipeline, AWS CodeCommit, Codedeploy. 
+•	Cloud Orchestration & Automation: Ansible, and Terraform
+•	Networking & Content Delivery: EC2, AMI, VPC, Subnets, Direct Connect, NACL, Security Group, Route53, Auto Scaling, ELB, SNS, Cloud Watch, and Elasticache. 
+•	Management & Governance: CloudWatch, Auto Scaling, CloudFormation, AWS Config, CloudTrail, Systems Manager
+•	Networking & Content Delivery: Load Balancers, Route 53, CloudFront, Lambda. 
+•	Storage: EBS, EFS, S3.
+•	Database: DynamoDB, RDS; Amazon Aurora, MySQL, Amazon Redshift. 
+
+Work history 
+
+AWS DevOps Engineer, 06/2022 -Present
+Alpha Life – Omaha, NE
+
+•	Building CI/CD pipelines using Git, GitHub, Jenkins, SonarQube, Nexus, Prometheus, Grafana and Slack to Deployed Dynamic Website 
+•	 Identified key services used to automate our continuous integration and continuous delivery (CI/CD) process 
+•	Optimizing Docker builds and ignoring files during Docker builds. Container logging, adding metadata with   labels, load balancing with containers,
+•	Developing scripts for build, deployment, maintenance and related tasks using Jenkins, Docker.
+•	Troubleshooting the Pipelines
+DevOps Engineer, 06/2020 -5/2022
+E2 Optics – Omaha, Nebraska
+
+•	Building Continuous Integration/Delivery pipelines: Git, GitHub, Jenkins, SonarQube, Maven, Nexus, Prometheus and Grafana, Slack, Ansible, AWS Code Build, Code Pipeline, AWS CodeCommit, Codedeploy. 
+•	Implementing infrastructures as code using Terraform, and Ansible.
+•	Worked with development teams to help engineer scalable, reliable, and resilient application running in cloud 
+•	Developed and maintained deploy jobs for application code deployment across all environments using automation tools like Jenkins, GitHub, Ansible and Docker.
+
+Cloud Engineer, 02/2017 - 05/2020
+Integer Life Choice – Omaha, NE
+
+•	Responsible for launching Amazon EC2 instances using Amazon web services and configuring launched instances 
+•	IAM administration (created users, groups, roles, policies), build VPC with custom Network Access Control List and Security Groups.
+•	Enabled access logging for Cloud Trail S3 bucket so that you can track access requests and identify potentially unauthorized or unwarranted access attempts. 
+•	Create Identity Access Management roles for various resources like EC2, RDS and S3 in order to communicate with each other 
+•	Troubleshoot applications hosted in the AWS platform to identify performance, connectivity and security issues.
+•	Monitored end-to-end infrastructure using CloudWatch and SNS for notification
+•	Designed and implemented for elasticity and scalability using ElastiCache, CloudFront – Edge locations, RDS (read replicas, instance sizes)
+
+Driver, 06/2015 - 02/2017
+Uber – Bronx, NY
+
+
+skills 
+•	Docker  
+•	Kubernetes 
+•	Jenkins 
+•	Amazon Web Services (AWS) 
+•	Ansible 
+
+•	Terraform
+•	Python  
+•	Bash scripting 
+•	Linux 
+•	Git
+ 
+ 
+Education
+•	Management of Information System,2018
+   Metropolitan Community College
+•	Economics -2015
+    University of Koudougou -Burkina Faso
+
+Certifications
+•	AWS Certified Cloud Practitioner
+•	Full Stack Developer – Nucamp 
+
+
+
+
